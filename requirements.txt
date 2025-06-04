@@ -1,2 +1,2 @@
-import panda as pd 
-omport numpy as nb 
+import pandas
+omport numpy 
